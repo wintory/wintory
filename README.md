@@ -1,25 +1,13 @@
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif"  />
+    <img height="150" src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif"  />
+    <h4 align="center">Hi there 👋  My name is Willy, and I currently work as a front-end developer.</h4>
 </div>
 
-###
-
-###👨‍💻  About Me
-
-###
-
-<p align="left">Hello 👋  I'm Willy, and I work as a front-end developer right now.</p>
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -39,24 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visualstudio logo"  />
 </div>
 
-###
-
-###🚀 My Stats
-
-###
+<h3 align="left">🚀 My Stats</h3>
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=wintory&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wintory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/wintory/wintory/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">🏆 GitHub Trophies</h3>
 
-###
 
-<img src="https://raw.githubusercontent.com/wintory/wintory/output/snake.svg" alt="Snake animation" />
+## ![](https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+
+## <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
