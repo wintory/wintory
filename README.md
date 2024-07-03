@@ -12,6 +12,11 @@
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -44,6 +49,11 @@
   <img src="https://streak-stats.demolab.com?user=wintory&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wintory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
