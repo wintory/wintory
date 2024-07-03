@@ -41,4 +41,4 @@
 <br/>
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)"/></div>
 <br/>
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
+<div align="center" style="width: 100%"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
