@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img height="150" src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif"  />
+    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ppemc0NzY3cm50dXdkMmFtdGdycWZ1d3E4Y2xjbHA2YzE5aGV2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MZWb0ZZyfgtxVMDu6d/giphy.gif"  />
     <h4 align="center">Hi there 👋  My name is Willy, and I currently work as a front-end developer.</h4>
 </div>
 
