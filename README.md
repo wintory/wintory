@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+###👨‍💻  About Me
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">🚀 My Stats</h3>
+###🚀 My Stats
 
 ###
 
