@@ -10,6 +10,9 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wintory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <br/>
+  <br/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -32,7 +35,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=wintory&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wintory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/wintory/wintory/output/snake.svg" alt="Snake animation" />
 </div>
 
@@ -41,4 +43,3 @@
 <br/>
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)"/></div>
 <br/>
-<div align="center" style="width: 100%"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
